@@ -12,4 +12,5 @@ irocn-os, 是基于Ubuntu 19.04版本针对Filecoin/Storj优化过的操作系�
 - 定制启动界面
 
 [下载地址](https://irocn.cn/irocn-os)
-   
+问题反馈: irocn@irocn.com / issues
+QQ群：892627940
